@@ -764,3 +764,4 @@
 "198.55.123.185","https://twitter.com/noladefense/status/1669552421796827136","phishing","noladefense IOC"
 "159.223.100.192","https://twitter.com/CarlyGriggs13/status/1669559840144850944","phishing","CarlyGriggs13 IOC"
 "159.223.100.192","https://twitter.com/CarlyGriggs13/status/1669559840144850944","scam","CarlyGriggs13 IOC"
+"65.108.24.105","https://twitter.com/TrackerC2Bot/status/1669585843332300800","malware","TrackerC2Bot IOC"
