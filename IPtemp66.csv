@@ -605,3 +605,5 @@
 "204.44.75.99","https://twitter.com/noladefense/status/1674643275184058368","phishing","noladefense IOC"
 "204.44.87.115","https://twitter.com/noladefense/status/1674657808405483523","phishing","noladefense IOC"
 "192.227.133.204","https://twitter.com/harugasumi/status/1674659088482058240","phishing","harugasumi IOC"
+"68.65.123.229","https://twitter.com/dubstard/status/1674660972131151873","phishing","dubstard IOC"
+"68.65.123.229","https://twitter.com/dubstard/status/1674660972131151873","scam","dubstard IOC"
