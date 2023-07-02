@@ -662,3 +662,6 @@
 "160.248.0.89","https://twitter.com/noladefense/status/1675373293946241024","phishing","noladefense IOC"
 "103.101.176.20","https://twitter.com/noladefense/status/1675380811380523010","phishing","noladefense IOC"
 "8.219.190.145","https://twitter.com/noladefense/status/1675383579616968704","phishing","noladefense IOC"
+"125.22.128.74","https://twitter.com/drb_ra/status/1675396860897271810","Qakbot","drb_ra IOC"
+"201.171.21.205","https://twitter.com/drb_ra/status/1675396883940777984","Qakbot","drb_ra IOC"
+"181.99.53.124","https://twitter.com/drb_ra/status/1675396910029447169","Qakbot","drb_ra IOC"
