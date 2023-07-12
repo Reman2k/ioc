@@ -745,3 +745,8 @@
 "108.179.234.91","https://twitter.com/PhishStats/status/1679183020161630208","phishing","PhishStats IOC"
 "203.205.10.134","https://twitter.com/silentpush_labs/status/1679188881831497728","phishing","silentpush_labs IOC"
 "111.90.156.169","https://twitter.com/noladefense/status/1679193482731335680","phishing","noladefense IOC"
+"31.215.69.82","https://twitter.com/drb_ra/status/1679201627767468052","Qakbot","drb_ra IOC"
+"202.187.234.139","https://twitter.com/drb_ra/status/1679201655714115595","Qakbot","drb_ra IOC"
+"177.255.88.252","https://twitter.com/drb_ra/status/1679202552569557001","Dcrat","drb_ra IOC"
+"120.78.151.171","https://twitter.com/drb_ra/status/1679202584312127488","Dcrat","drb_ra IOC"
+"94.124.192.220","https://twitter.com/drb_ra/status/1679202613001089035","Dcrat","drb_ra IOC"
