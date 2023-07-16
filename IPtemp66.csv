@@ -384,3 +384,7 @@
 "43.163.201.174","https://twitter.com/noladefense/status/1680563728872361988","phishing","noladefense IOC"
 "192.227.197.123","https://twitter.com/noladefense/status/1680575049336598530","phishing","noladefense IOC"
 "198.46.193.185","https://twitter.com/noladefense/status/1680593931703140354","phishing","noladefense IOC"
+"154.39.240.113","https://twitter.com/drb_ra/status/1680626679973138432","CobaltStrike","drb_ra IOC"
+"154.39.240.110","https://twitter.com/drb_ra/status/1680626679973138432","CobaltStrike","drb_ra IOC"
+"124.220.180.202","https://twitter.com/drb_ra/status/1680626714831880199","CobaltStrike","drb_ra IOC"
+"173.82.79.254","https://twitter.com/drb_ra/status/1680627246518743043","CobaltStrike","drb_ra IOC"
