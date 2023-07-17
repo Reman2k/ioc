@@ -354,3 +354,7 @@
 "91.103.252.57","https://twitter.com/TrackerC2Bot/status/1681003653845463040","malware","TrackerC2Bot IOC"
 "91.103.252.89","https://twitter.com/TrackerC2Bot/status/1681003653845463040","malware","TrackerC2Bot IOC"
 "69.49.235.250","https://twitter.com/noladefense/status/1681009464063787008","phishing","noladefense IOC"
+"188.220.225.20","https://twitter.com/drb_ra/status/1681013646090969089","Qakbot","drb_ra IOC"
+"78.147.206.40","https://twitter.com/drb_ra/status/1681013679104356354","Qakbot","drb_ra IOC"
+"90.70.150.94","https://twitter.com/drb_ra/status/1681013709089435649","Qakbot","drb_ra IOC"
+"40.114.223.144","https://twitter.com/drb_ra/status/1681014238007943168","Dcrat","drb_ra IOC"
