@@ -246,3 +246,4 @@
 "107.173.210.26","https://twitter.com/noladefense/status/1681360222974103554","phishing","noladefense IOC"
 "194.87.216.85","https://twitter.com/TrackerC2Bot/status/1681363441712234514","malware","TrackerC2Bot IOC"
 "91.208.52.190","https://twitter.com/TrackerC2Bot/status/1681363441712234514","malware","TrackerC2Bot IOC"
+"43.143.145.131","https://twitter.com/Response(data=<User id=1431575761325023235 name=C2IntelFeedsBot username=drb_ra>, includes={}, errors=[], meta={})/status/1681601406367588352","CobaltStrike","Response(data=<User id=1431575761325023235 name=C2IntelFeedsBot username=drb_ra>, includes={}, errors=[], meta={}) IOC"
