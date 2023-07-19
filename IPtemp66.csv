@@ -247,3 +247,7 @@
 "194.87.216.85","https://twitter.com/TrackerC2Bot/status/1681363441712234514","malware","TrackerC2Bot IOC"
 "91.208.52.190","https://twitter.com/TrackerC2Bot/status/1681363441712234514","malware","TrackerC2Bot IOC"
 "43.143.145.131","https://twitter.com/drb_ra/status/1681601406367588352","CobaltStrike","drb_ra IOC"
+"101.43.90.184","https://twitter.com/drb_ra/status/1681644265447870466","CobaltStrike","drb_ra IOC"
+"149.28.82.193","https://twitter.com/drb_ra/status/1681644354220306432","CobaltStrike","drb_ra IOC"
+"147.182.229.244","https://twitter.com/drb_ra/status/1681644517122867200","CobaltStrike","drb_ra IOC"
+"182.92.202.43","https://twitter.com/drb_ra/status/1681645450401554434","CobaltStrike","drb_ra IOC"
