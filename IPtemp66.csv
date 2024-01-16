@@ -243,3 +243,5 @@
 "47.120.47.43","https://twitter.com/malpulse/status/1747378234826571938","malware","malpulse IOC"
 "47.120.47.43","https://twitter.com/malpulse/status/1747378234826571938","CobaltStrike","malpulse IOC"
 "120.0.0.0","https://twitter.com/V3n0mStrike/status/1747383228099354882","malware","V3n0mStrike IOC"
+"156.251.31.75","https://twitter.com/drb_ra/status/1747389412558725210","CobaltStrike","drb_ra IOC"
+"192.168.126.128","https://twitter.com/drb_ra/status/1747389412558725210","CobaltStrike","drb_ra IOC"
