@@ -291,3 +291,6 @@
 "2606:4700:3032::6815:1a2e","https://twitter.com/noladefense/status/1747448315380195544","phishing","noladefense IOC"
 "41.216.183.31","https://twitter.com/d1spat0h/status/1747451666310525056","ransomware","d1spat0h IOC"
 "45.58.35.5","https://twitter.com/malpulse/status/1747453975132078368","malware","malpulse IOC"
+"185.196.10.208","https://twitter.com/noladefense/status/1747458601902318022","phishing","noladefense IOC"
+"107.150.7.216","https://twitter.com/noladefense/status/1747459034255392979","phishing","noladefense IOC"
+":18:00","https://twitter.com/REDLINE_TOUR/status/1747459446006333550","RedLine","REDLINE_TOUR IOC"
