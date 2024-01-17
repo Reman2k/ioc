@@ -369,3 +369,6 @@
 "144.91.122.255","https://twitter.com/malpulse/status/1747650214737883166","malware","malpulse IOC"
 "8.130.82.167","https://twitter.com/malpulse/status/1747651199946432819","malware","malpulse IOC"
 "8.130.82.167","https://twitter.com/malpulse/status/1747651199946432819","CobaltStrike","malpulse IOC"
+"192.64.115.191","https://twitter.com/phishunt_io/status/1747676389505974509","phishing","phishunt_io IOC"
+"192.64.115.191","https://twitter.com/phishunt_io/status/1747676389505974509","scam","phishunt_io IOC"
+"62.234.13.73","https://twitter.com/drb_ra/status/1747676546716897622","CobaltStrike","drb_ra IOC"
