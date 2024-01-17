@@ -290,3 +290,4 @@
 "2606:4700:3034::6815:3940","https://twitter.com/noladefense/status/1747448319222137056","phishing","noladefense IOC"
 "2606:4700:3032::6815:1a2e","https://twitter.com/noladefense/status/1747448315380195544","phishing","noladefense IOC"
 "41.216.183.31","https://twitter.com/d1spat0h/status/1747451666310525056","ransomware","d1spat0h IOC"
+"45.58.35.5","https://twitter.com/malpulse/status/1747453975132078368","malware","malpulse IOC"
