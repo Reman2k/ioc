@@ -279,3 +279,5 @@
 "103.131.196.213","https://twitter.com/noladefense/status/1747433169115037737","phishing","noladefense IOC"
 "2606:4700::6812:323","https://twitter.com/noladefense/status/1747433170725752867","phishing","noladefense IOC"
 "172.66.44.65","https://twitter.com/noladefense/status/1747433263856013548","phishing","noladefense IOC"
+"194.87.31.166","https://twitter.com/malpulse/status/1747439011633811947","malware","malpulse IOC"
+"3.22.217.8","https://twitter.com/malpulse/status/1747439022463434992","malware","malpulse IOC"
