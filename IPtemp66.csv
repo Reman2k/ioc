@@ -819,3 +819,8 @@
 "167.88.166.115","https://twitter.com/noladefense/status/1750211416236138879","phishing","noladefense IOC"
 "24.137.215.159","https://twitter.com/drb_ra/status/1750214162549023130","CobaltStrike","drb_ra IOC"
 "72.142.102.158","https://twitter.com/drb_ra/status/1750214500161069333","CobaltStrike","drb_ra IOC"
+"34.88.16.45","https://twitter.com/malpulse/status/1750217021902475284","malware","malpulse IOC"
+"124.221.17.198","https://twitter.com/malpulse/status/1750218009430360346","malware","malpulse IOC"
+"124.221.17.198","https://twitter.com/malpulse/status/1750218009430360346","CobaltStrike","malpulse IOC"
+"147.50.253.9","https://twitter.com/malpulse/status/1750218297092526309","malware","malpulse IOC"
+"147.50.253.9","https://twitter.com/malpulse/status/1750218297092526309","Njrat","malpulse IOC"
