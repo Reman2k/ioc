@@ -350,3 +350,5 @@
 "172.67.197.201","https://x.com/catnap707/status/1872156218682417382","phishing","catnap707 IOC"
 "123.249.80.87","https://x.com/drb_ra/status/1872162978247946381","CobaltStrike","drb_ra IOC"
 "123.249.80.87","https://x.com/drb_ra/status/1872162978247946381","C2","drb_ra IOC"
+"147.185.221.24","https://x.com/SarlackLab/status/1872170848280367253","Njrat","SarlackLab IOC"
+"147.185.221.24","https://x.com/SarlackLab/status/1872170848280367253","C2","SarlackLab IOC"
